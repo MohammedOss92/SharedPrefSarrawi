@@ -13,7 +13,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
-
+//vvfbgbg
     TextView tvName;
     CheckBox cbMS;
     RelativeLayout rl;
